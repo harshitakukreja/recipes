@@ -10,3 +10,7 @@ source path/to/new_env/with/name/bin/activate
 ```bash
 deactivate
 ```
+
+```bash
+conda create -n env_name python=<python_version>
+```
